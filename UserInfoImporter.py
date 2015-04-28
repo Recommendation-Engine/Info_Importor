@@ -1,4 +1,4 @@
-class UserInfoImportor(object):
+class UserInfoImporter(object):
 
 	def __init__(self,userInfoFile,userCatFile,ageCatFile):
 		self.__userInfoFile = userInfoFile

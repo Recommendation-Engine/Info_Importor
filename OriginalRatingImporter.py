@@ -1,6 +1,6 @@
 from datetime import datetime
 
-class OriginalRatingImportor(object):
+class OriginalRatingImporter(object):
 
 	def __init__(self,ratingFile):
 		self.__ratingFile = ratingFile
