@@ -9,8 +9,8 @@ class OriginalRatingImporter(object):
 		items = line.split("::")
 		
 		rating = {}
-		rating['userId'] = int(items[0].strip())
-		rating['movieId'] = int(items[1].strip())
+		rating['uid'] = int(items[0].strip())
+		rating['mid'] = int(items[1].strip())
 		rating['rating'] = int(items[2].strip())
 		rating['datetime'] = datetime.fromtimestamp(int(items[3].strip()))
 

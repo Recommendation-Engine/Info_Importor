@@ -8,8 +8,8 @@ class MovieMovieMatrixImporter(object):
 
 	def _generateMovieList(self, movieId):
 		movies = {}
-		movies['movieId'] = movieId
-		movies['recommendedMovies'] = self.__recommender.getTopKMovies(100, movieId).tolist()
+		movies['mid'] = movieId
+		movies['movies'] = self.__recommender.getTopKMovies(100, movieId).tolist()
 
 		return movies
 	

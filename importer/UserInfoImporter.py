@@ -33,7 +33,7 @@ class UserInfoImporter(object):
 		items = line.split("::")
 		
 		user = {}
-		user['userId'] = int(items[0].strip())
+		user['uid'] = int(items[0].strip())
 		user['gender'] = items[1].strip()
 		user['age'] = self.__ageCategory[int(items[2].strip())]
 		user['occupation'] = self.__userCategory[int(items[3].strip())]
