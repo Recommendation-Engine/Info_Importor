@@ -1,5 +1,7 @@
-from UserInfoImporter import UserInfoImporter
-from OriginalRatingImporter import OriginalRatingImporter
+from importer.UserInfoImporter import *
+from importer.OriginalRatingImporter import *
+from importer.MovieMovieMatrixImporter import *
+
 from pymongo import MongoClient
 
 class Importer(object):
@@ -21,8 +23,12 @@ def main():
 	importer = Importer('localhost', 27017, 'recommendation_engine')
 	db = importer.connectMongoDB()
 
+	movieMovieMatrixImporter = MovieMovieMatrixImporter("data/ratings.txt", 6040, 3952)
+	movieMovieMatrixImporter.importMatrix(db["m2m"])
+
+	print "Start with safe area!!! GO FOR LUNCH!"
 	userInfoImporter = UserInfoImporter("data/users.txt", "data/UserCategory.txt", "data/AgeCategory.txt")
-	userInfoImporter.importUserInfo(db['users'])
+	userInfoImporter.importUserInfo(db["users"])
 
 	originalRatingImporter = OriginalRatingImporter("data/ratings.txt")
 	originalRatingImporter.importRating(db["ratings"])
