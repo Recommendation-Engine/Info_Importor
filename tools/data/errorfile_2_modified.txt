@@ -1,0 +1,406 @@
+73::Les Misérables (Miserables, Les )(1995) (1995)::Drama|Musical
+
+96::A Midwinter's Tale (In the Bleak Midwinter )(1995) (1995)::Comedy
+
+127::The Silences of the Palace (Saimt el Qusur) (1994)::Drama
+
+242::Farinelli (1994)::Drama|Musical
+
+250::Heavy Weights (Heavyweights ) (1994) (1995)::Children's|Comedy
+
+265::Como agua para chocolate (1992)::Drama|Romance
+
+269::Mi vida loca (My Crazy Life ) (1993) (1993)::Drama
+
+284::New York Cop (New York Cop ) (1996) (1993)::Action|Crime
+
+328::Tales from the Crypt: Demon Knight (Tales From the Crypt Presents: Demon Knight )  (1995) (1995)::Horror
+
+366::New Nightmare (Wes Craven's New Nightmare) (1994)::Horror
+
+374::Ri¢hie Ri¢h (Richie Rich ) (1994)::Children's|Comedy
+
+403::Dos crímenes (Two Crimes )(1995) (1995)::Comedy|Crime|Drama
+
+405::Highlander: The Final Dimension (Highlander III: The Sorcerer ) (1994) (1994)::Action|Sci-Fi
+
+512::The Puppet Masters (Robert A. Heinlein's The Puppet Masters ) (1994) (1994)::Horror|Sci-Fi
+
+571::Wide-Eyed and Legless (Wedding Gift, The )(1994) (1993)::Drama
+
+578::The Advocate (Hour of the Pig, The ) (1993) (1993)::Drama|Mystery
+
+582::Café au lait (Metisse )(1993) (1992)::Comedy
+
+601::Wu kui (Wooden Man's Bride, The ) (1994) (1994)::Drama
+
+625::Halfaouine: Boy of the Terraces (Asfour Stah )(1990) (1990)::Drama
+
+638::Jack & Sarah (Jack and Sarah )(1995) (1995)::Romance
+
+654::And Nobody Weeps for Me (Und keiner weint mir nach ) (1996) (1996)::Drama|Romance
+
+655::My Mother's Courage (Mutters Courage) (1995)::Comedy
+
+681::Coup de torchon (Clean Slate )(1981) (1981)::Crime
+
+683::L'oeil de Vichy (Eye of Vichy, The )(1993) (1993)::Documentary
+
+693::Under the Domim Tree (Etz Hadomim Tafus) (1994)::Drama
+
+718::Les visiteurs (Visitors, The ) (1993)::Comedy|Sci-Fi
+
+721::Paul Bowles - Halbmond (Halfmoon )(1995) (1995)::Drama
+
+723::2 Friends (Two Friends )(1986) (1987)::Drama
+
+771::Life Is Rosy (Vie est belle, La )(1987) (1987)::Comedy|Drama
+
+787::The Gate of Heavenly Peace (1995)::Documentary
+
+793::En compagnie d'Antonin Artaud (My Life and Times With Antonin Artaud )(1993) (1993)::Drama
+
+811::Maybe... Maybe Not (Bewegte Mann, Der )(1994) (1994)::Comedy
+
+823::The Collector (Collectionneuse, La )(1967) (1967)::Drama
+
+825::Regular Guys (Echte Kerle )(1996) (1996)::Comedy|Romance
+
+842::Bordello of Blood (Tales from the Crypt Presents: Bordello of Blood )(1996) (1996)::Horror
+
+844::Xinghua san yue tian (Story of Xinghua, The )(1993) (1994)::Drama
+
+845::Tian guo ni zi (Day the Sun Turned Cold, The )(1994) (1994)::Drama
+
+855::Un week-end sur deux (Every Other Weekend )(1990) (1990)::Drama
+
+857::Wuya yu maque (Crows and Sparrows )(1949) (1949)::Drama
+
+872::Vive L'Amour (Aiqing wansui) (1994)::Drama
+
+876::Supercop 2 (Police Story 4: Project S )(1993) (1993)::Action
+
+952::Around the World in Eighty Days (Around the World in 80 Days ) (1956)::Adventure|Comedy
+
+980::Huang jia shi jie (In the Line of Duty 2 ) (1987)::Action
+
+989::Brother of Sleep (Schlafes Bruder )(1995) (1995)::Drama
+
+1001::The Associate (Associate, The )(1982) (1996)::Comedy
+
+1059::Romeo + Juliet (William Shakespeare's Romeo and Juliet )(1996) (1996)::Drama|Romance
+
+1065::Five Angles on Murder (Woman in Question, The )(1950) (1950)::Mystery
+
+1073::Willy Wonka & the Chocolate Factory (Willy Wonka and the Chocolate Factory )(1971) (1971)::Adventure|Children's|Comedy|Fantasy
+
+1075::The Sex Life of the Belgians (Sexual Life of the Belgians, The )(1994) (1994)::Comedy
+
+1080::Life of Brian (Monty Python's Life of Brian) (1979)::Comedy
+
+1098::The Search for One-eye Jimmy (Search for One-eye Jimmy, The )(1996) (1994)::Comedy
+
+1105::Children of the Corn: The Gathering (Children of the Corn IV: The Gathering) (1996)::Horror
+
+1109::Charms Zwischenfälle (Charm's Incidents )(1996) (1996)::Drama
+
+1118::The North Star (Tashunga )(1995) (1996)::Adventure|Western
+
+1119::Drunks (Drunks )(1997) (1995)::Drama
+
+1134::Johnny One Hundred Pesos (Johnny 100 Pesos )(1993) (1994)::Action|Drama
+
+1144::The Line King: The Al Hirschfeld Story (Line King: Al Hirschfeld, The )(1996) (1996)::Documentary
+
+1156::The Children Are Watching Us (Children Are Watching us, The )(1942) (1944)::Drama
+
+1157::Pastoral Symphony (Symphonie pastorale, La )(1946) (1946)::Drama
+
+1166::Farmer & Chase (Farmer & Chase )(1995) (1997)::Comedy
+
+1174::Dead Tired (Grosse Fatigue )(1994) (1994)::Comedy
+
+1202::Withnail & I (Withnail and I ) (1987)::Comedy
+
+1223::A Grand Day Out (Grand Day Out, A )(1992) (1989)::Animation|Comedy
+
+1241::Dead Alive (Braindead ) (1992)::Comedy|Horror
+
+1243::Rosencrantz & Guildenstern Are Dead (Rosencrantz and Guildenstern Are Dead )(1990) (1990)::Comedy|Drama
+
+1251::8½ (8 1/2 ) (1963)::Drama
+
+1319::Kids of Survival (Kids of Survival )(1993) (1996)::Documentary
+
+1349::Vampire in Venice (Nosferatu a Venezia )(1986) (1988)::Horror
+
+1351::Blood and Wine (Blood & Wine )(1997) (1996)::Drama
+
+1362::The Garden of the Finzi-Continis (Giardino dei Finzi-Contini, Il) (1970)::Drama
+
+1368::Strange Deception (Forbidden Christ, The )(1950) (1951)::Drama
+
+1374::Star Trek II: The Wrath of Khan (1982)::Action|Adventure|Sci-Fi
+
+1406::La Cérémonie (Ceremonie, La ) (1995) (1995)::Drama
+
+1474::Jungle 2 Jungle (a.k.a. Jungle 2 Jungle) (1997)::Children's|Comedy
+
+1480::Smilla's Feeling for Snow (Smilla's Sense of Snow )(1997) (1997)::Action|Drama|Thriller
+
+1559::The Next Step (Next Step, The )(1995) (1997)::Drama
+
+1571::When the Cat's Away (When the Cats Away )(1996) (1996)::Comedy|Romance
+
+1642::Indian Summer (Indian Summer )(1996) (1993)::Comedy|Drama
+
+1643::Mrs Brown (Mrs. Brown ) (1997)::Drama|Romance
+
+1646::RocketMan (Rocket Man )(1997) (1997)::Comedy
+
+1656::Amy Foster (Swept from the Sea )(1997) (1997)::Romance
+
+1664::Nenette and Boni (Nenette et Boni )(1996) (1996)::Drama
+
+1684::Mrs Dalloway (Mrs. Dalloway )(1997) (1997)::Romance
+
+1692::Alien Escape (Alien Escape )(1995) (1997)::Horror|Sci-Fi
+
+1697::Bang (Big Bang Theory, The ) (1994) (1995)::Crime
+
+1706::Tar (Harlem River Drive )(1996) (1997)::Drama
+
+1713::Mousehunt (Mouse Hunt) (1997)::Children's|Comedy
+
+1716::Other Voices, Other Rooms (Other Voices, Other Rooms )(1997) (1995)::Drama
+
+1720::Time Tracers (Time Tracers )(1995) (1997)::Action|Adventure|Sci-Fi
+
+1734::Ma Vie en Rose (My Life in Pink )(1997) (1997)::Comedy|Drama
+
+1739::3 Ninjas: High Noon at Mega Mountain (3 Ninjas: High Noon On Mega Mountain) (1998)::Action|Children's
+
+1743::Arguing the World (Arguing the World )(1996) (1998)::Documentary
+
+1757::Angel Heart (Duoluo tianshi) (1995)::Drama
+
+1768::Mother and Son (Mat' i syn )(1997) (1997)::Drama
+
+1781::The Break (Further Gesture, A )(1996) (1997)::Drama
+
+1789::The Sadness of Sex (Sadness of Sex, The )(1995) (1998)::Drama
+
+1792::U.S. Marshals (U.S. Marshalls) (1998)::Action|Thriller
+
+1795::Miracle Alley (Callejen de los milagros, El) (1995)::Drama
+
+1825::The Players Club (Player's Club, The )(1998) (1998)::Action|Drama
+
+1830::Follow the Bitch (Follow the Bitch )(1998) (1996)::Comedy
+
+1873::Les Misérables (Miserables, Les )(1998) (1995)::Drama
+
+1905::Marie from the Bay of Angels (Marie Baie Des Anges )(1997) (1997)::Drama
+
+1933::The Life of Emile Zola (Life of emile Zola, The )(1937) (1937)::Drama
+
+1955::Kramer vs. Kramer (Kramer Vs. Kramer )(1979) (1979)::Drama
+
+1969::A Nightmare on Elm Street 2: Freddy's Revenge (Nightmare on Elm Street Part 2: Freddy's Revenge, A) (1985)::Horror
+
+1976::Friday the 13th Part III (Friday the 13th Part 3: 3D) (1982)::Horror
+
+1978::Friday the 13th: A New Beginning (Friday the 13th Part V: A New Beginning )(1985) (1985)::Horror
+
+1979::Jason Lives: Friday the 13th Part VI (Friday the 13th Part VI: Jason Lives )(1986) (1986)::Horror
+
+1986::Halloween 5 (Halloween 5: The Revenge of Michael Myers )(1989) (1989)::Horror
+
+1988::Prom Night II (Hello Mary Lou: Prom Night II )(1987) (1987)::Horror
+
+2031::The Million Dollar Duck ($1,000,000 Duck )(1971) (1971)::Children's|Comedy
+
+2102::Steamboat Willie (Steamboat Willie )(1940) (1928)::Animation|Children's|Comedy|Musical
+
+2129::Die Salzmänner von Tibet (Saltmen of Tibet, The )(1997) (1997)::Documentary
+
+2158::Henry II: Portrait of a Serial Killer (Henry: Portrait of a Serial Killer, Part 2 )(1996) (1996)::Crime|Horror
+
+2159::Henry: Portrait of a Serial Killer (Henry: Portrait of a Serial Killer )(1990) (1986)::Crime|Horror
+
+2163::Attack of the Killer Tomatoes! (Attack of the Killer Tomatoes! )(1980) (1978)::Comedy|Horror
+
+2165::Your Friends & Neighbors (Your Friends and Neighbors )(1998) (1998)::Drama
+
+2173::The Navigator: A Medieval Odyssey (1988)::Adventure|Fantasy|Sci-Fi
+
+2175::Déjà Vu (1997)::Drama|Romance
+
+2209::The Girl Was Young (Young and Innocent )(1937) (1937)::Crime|Thriller
+
+2213::Strauss' Great Waltz (Waltzes from Vienna )(1933) (1934)::Comedy|Musical
+
+2214::Number 17 (Number Seventeen )(1932) (1932)::Thriller
+
+2215::East of Shanghai (Rich and Strange )(1932) (1931)::Comedy|Romance
+
+2218::The Shame of Mary Boyle (Juno and Paycock )(1930) (1929)::Drama
+
+2224::When Boys Leave Home (Downhill ) (1927)::Drama
+
+2258::The Master (Master Ninja I) (1984)::Action
+
+2292::Overnight Delivery (Overnight Delivery )(1996) (1998)::Romance
+
+2386::Ringmaster (Jerry Springer: Ringmaster )(1998) (1998)::Drama
+
+2399::Santa Claus (Santa Claus: The Movie )(1985) (1985)::Adventure|Children's|Fantasy
+
+2422::The Karate Kid, Part III (Karate Kid III, The) (1989)::Action|Adventure|Drama
+
+2452::Gate 2: The Trespassers (Gate II: Trespassers, The )(1990) (1990)::Horror
+
+2459::The Texas Chain Saw Massacre (Texas Chainsaw Massacre, The )(1974) (1974)::Horror
+
+2462::Texas Chainsaw Massacre: The Next Generation (Return of the Texas Chainsaw Massacre, The )(1994) (1994)::Horror
+
+2536::The Concorde... Airport '79 (Concorde: Airport '79, The )(1979) (1979)::Drama
+
+2602::Goliathon (Mighty Peking Man )(1977) (1977)::Adventure|Sci-Fi
+
+2655::Howling II: ... Your Sister Is a Werewolf (Howling II: Your Sister Is a Werewolf )(1985) (1985)::Horror
+
+2665::Earth vs. the Flying Saucers (Earth Vs. the Flying Saucers )(1956) (1956)::Sci-Fi
+
+2742::Ménage (Menage )(1986) (1986)::Comedy|Drama
+
+2748::Allan Quatermain and the Lost City of Gold (Allan Quartermain and the Lost City of Gold) (1987) (1986)::Action|Adventure
+
+2776::Marcello Mastroianni: I Remember (Marcello Mastroianni: I Remember Yes, I Remember )(1997) (1997)::Documentary
+
+2800::Little Nemo: Adventures in Slumberland (Little Nemo: Adventures in Slumberland )(1992) (1989)::Animation|Children's
+
+2823::Die Spinnen, 1. Teil - Der Goldene See (Spiders, The )(1919) (1919)::Action|Drama
+
+2837::Bedrooms and Hallways (Bedrooms & Hallways )(1998) (1998)::Comedy|Romance
+
+2845::Whiteboyz (White Boys ) (1999)::Drama
+
+2854::The Forgotten (Don't Look in the Basement! )(1973) (1973)::Horror
+
+2868::Fright Night Part 2 (Fright Night Part II )(1989) (1988)::Horror
+
+2880::Armour of God 2: Operation Condor (Operation Condor 2 )(1990) (1991)::Action|Adventure|Comedy
+
+2923::Handle with Care (Citizen's Band )(1977) (1977)::Comedy
+
+2934::El amor brujo (Love Bewitched, A )(1986) (1986)::Musical
+
+2952::Hard Eight (Hard 8 )(1996) (1996)::Crime|Thriller
+
+3027::Slaughterhouse Rock (Slaughterhouse 2 ) (1988)::Horror
+
+3054::Pokémon: The First Movie - Mewtwo Strikes Back (Pokemon: The First Movie) (1998)::Animation|Children's
+
+3064::Poison Ivy: The New Seduction (Poison Ivy: New Seduction )(1997) (1997)::Thriller
+
+3065::Ten Benny (Ten Benny )(1997) (1995)::Drama
+
+3070::The Adventures of Buckaroo Banzai Across the 8th Dimension (Adventures of Buckaroo Bonzai Across the 8th Dimension, The) (1984)::Adventure|Comedy|Sci-Fi
+
+3086::Babes in Toyland (March of the Wooden Soldiers )(1934) (1934)::Comedy
+
+3089::Bicycle Thieves (Bicycle Thief, The ) (1948)::Drama
+
+3123::Lauderdale (Spring Fever USA )(1989) (1989)::Comedy
+
+3134::La Grande Illusion (Grand Illusion ) (1937)::Drama|War
+
+3164::The Alley Cats (Alley Cats, The )(1968) (1966)::Drama
+
+3234::Train Ride to Hollywood (Train Ride to Hollywood )(1978) (1975)::Comedy
+
+3242::Santitos (Santitos )(1997) (1999)::Comedy
+
+3336::It Happened Here (It Happened Here )(1961) (1965)::Drama
+
+3337::I'll Never Forget What's'isname (I'll Never Forget What's 'is Name) (1967)::Comedy|Drama
+
+3357::Est - Ouest (East-West )(1999) (1999)::Drama|Romance
+
+3376::Fantastic Night (Fantastic Night, The )(1949) (1942)::Romance
+
+3401::Baby: Secret of the Lost Legend (Baby... Secret of the Lost Legend )(1985) (1985)::Adventure|Sci-Fi
+
+3407::Les convoyeurs attendent (Carriers Are Waiting, The )(1999) (1999)::Comedy|Drama
+
+3458::Sangre y arena (Blood and Sand ) (1989)::Drama|Romance
+
+3464::Solar Crisis (Solar Crisis )(1993) (1990)::Sci-Fi|Thriller
+
+3472::The City of the Dead (Horror Hotel ) (1960)::Horror
+
+3522::Sacco & Vanzetti (Sacco and Vanzetti )(1971) (1971)::Drama
+
+3532::À Nous la Liberté (Freedom for Us )(1931) (1931)::Comedy
+
+3554::Love & Basketball (Love and Basketball) (2000)::Drama|Romance
+
+3560::Empire of Passion (Phantom Love )(1978) (1978)::Drama
+
+3568::Smiling Fish & Goat on Fire (Smiling Fish and Goat on Fire )(1999) (1999)::Drama
+
+3571::Timecode (Time Code )(2000) (2000)::Drama
+
+3577::Two Moon Junction (Two Moon Juction) (1988)::Drama
+
+3590::The Lord's of Flatbush (Lords of Flatbush, The )(1974) (1974)::Comedy
+
+3602::G.I. Blues (G. I. Blues) (1960)::Musical
+
+3623::Mission: Impossible II (Mission: Impossible 2 )(2000) (2000)::Action|Thriller
+
+3626::8 ½ Women (8 1/2 Women )(1999) (1999)::Comedy
+
+3655::La Grande Bouffe (Blow-Out )(1973) (1973)::Drama
+
+3658::Five Million Years to Earth (Quatermass and the Pit )(1967) (1967)::Sci-Fi
+
+3659::Enemy from Space (Quatermass II ) (1957)::Sci-Fi|Thriller
+
+3666::Retro Puppet Master(Retro Puppetmaster )(1999) (1999)::Horror|Sci-Fi|Thriller
+
+3690::Porky's 3: Revenge (Porky's Revenge )(1985) (1985)::Comedy
+
+3736::Ace in the Hole (Big Carnival, The ) (1951)::Drama
+
+3754::The Adventures of Rocky & Bullwinkle (Adventures of Rocky and Bullwinkle, The )(2000) (2000)::Animation|Children's|Comedy
+
+3759::Fun & Fancy Free (Fun and Fancy Free )(1947) (1947)::Animation|Children's|Musical
+
+3762::Daughter of Dr. Jekyll (Daughter of Dr. Jeckyll) (1957)::Horror
+
+3772::Blood Brides (Hatchet For the Honeymoon )(1969) (1970)::Horror
+
+3788::Blow-Up (Blowup ) (1966)::Drama|Mystery
+
+3796::Immortality (Wisdom of Crocodiles, The )(2000) (1998)::Romance|Thriller
+
+3799::Pokemon: Power of One (Pokemon the Movie 2000 )(2000) (1999)::Animation|Children's
+
+3842::Cannibal Ferox (Make Them Die Slowly )(1980) (1981)::Horror
+
+3850::What Ever Happened to Aunt Alice? (Whatever Happened to Aunt Alice?) (1969)::Crime|Thriller
+
+3854::Aimee & Jaguar (Aimee & Jaguar )(1999) (1999)::Drama|Romance
+
+3869::The Naked Gun 2½: The Smell of Fear (Naked Gun 2 1/2: The Smell of Fear, The) (1991)::Comedy
+
+3876::Jerry and Tom (Jerry & Tom )(1998) (1998)::Drama
+
+3890::Backstage (Back Stage ) (2000)::Documentary
+
+3900::Crime + Punishment in Suburbia (Crime and Punishment in Suburbia) (2000)::Comedy|Drama
+
+3928::Bud Abbott Lou Costello Meet Frankenstein (Abbott and Costello Meet Frankenstein )(1948) (1948)::Comedy|Horror
+

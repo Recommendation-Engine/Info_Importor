@@ -1,0 +1,276 @@
+73::Mis�rables, Les (1995)::Drama|Musical
+
+{"Response":"False","Error":"Movie not found!"}
+96::In the Bleak Midwinter (1995)::Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+121::Boys of St. Vincent, The (1993)::Drama
+
+{"Title":"The Boys of St. Vincent","Year":"1992","Rated":"N/A","Released":"06 Dec 1992","Runtime":"186 min","Genre":"Drama","Director":"John N. Smith","Writer":"Sam Grana, John N. Smith, Des Walsh","Actors":"Henry Czerny, Johnny Morina, Brian Dooley, Philip Dinn","Plot":"This movie is based on actual events, but it says it is not all about one specific incident. It documents St. Vincent's Orphanage in Canada, where many of the boys suffer physical, emotional, and sexual abuse at the hands of the brothers who run the facility. When the stories are surfaced and a police investigation is begun, religious and political groups work to silence the story to keep it from reaching the public.","Language":"English","Country":"Canada","Awards":"13 wins & 4 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMjE3NjM3NDQ0M15BMl5BanBnXkFtZTcwNzEwNjMyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.8","imdbVotes":"1,108","imdbID":"tt0106473","Type":"movie","Response":"True"}
+127::Silence of the Palace, The (Saimt el Qusur) (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+128::Jupiter's Wife (1994)::Documentary
+
+{"Title":"Jupiter's Wife","Year":"1995","Rated":"N/A","Released":"08 Sep 1995","Runtime":"87 min","Genre":"Documentary, Biography, Mystery","Director":"Michel Negroponte","Writer":"Gabriel Morgan, Michel Negroponte","Actors":"Maggie Cogan, Katina Pendleton","Plot":"Michel Negroponte, a documentary filmmaker, meets Maggie one day in Central Park. Maggie claims to be married to the god Jupiter and the daughter of actor Robert Ryan. Michel gets to know Maggie over the next couple of years, and attempts to use her often outlandish stories as clues to reconstruct her past.","Language":"English","Country":"USA","Awards":"3 wins & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTI3ODIyODY4N15BMl5BanBnXkFtZTcwNjE3MjUyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"210","imdbID":"tt0110217","Type":"movie","Response":"True"}
+129::Pie in the Sky (1995)::Comedy|Romance
+
+{"Title":"Pie in the Sky","Year":"1996","Rated":"R","Released":"09 Feb 1996","Runtime":"95 min","Genre":"Comedy, Romance","Director":"Bryan Gordon","Writer":"Bryan Gordon","Actors":"Josh Charles, Anne Heche, John Goodman, Christine Lahti","Plot":"A whimsical saga of a young man whose two life-consuming passions are unraveling traffic gridlock and an avant-garde dancer. A romantic comedy.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTAxMTQwNTg1NjNeQTJeQWpwZ15BbWU3MDEzMzI0MjE@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.8","imdbVotes":"723","imdbID":"tt0114131","Type":"movie","Response":"True"}
+157::Canadian Bacon (1994)::Comedy|War
+
+{"Title":"Canadian Bacon","Year":"1995","Rated":"PG","Released":"22 Sep 1995","Runtime":"91 min","Genre":"Comedy","Director":"Michael Moore","Writer":"Michael Moore","Actors":"John Candy, Alan Alda, Rhea Perlman, Kevin Pollak","Plot":"The US economy is in a rut, and so is the president's approval rating. What we need is a good war, but the Russians aren't interested. Hey -- how about that big polite country to the north? Niagara Falls Sheriff Bud B. Boomer takes this all a bit too seriously, though.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTUwNDU0NzcwMl5BMl5BanBnXkFtZTcwNzk1NjAzNA@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.9","imdbVotes":"12,865","imdbID":"tt0109370","Type":"movie","Response":"True"}
+224::Don Juan DeMarco (1995)::Comedy|Drama|Romance
+
+{"Title":"Don Juan DeMarco","Year":"1994","Rated":"PG-13","Released":"07 Apr 1995","Runtime":"97 min","Genre":"Comedy, Drama, Romance","Director":"Jeremy Leven","Writer":"Lord Byron (character Don Juan), Jeremy Leven","Actors":"Marlon Brando, Johnny Depp, Faye Dunaway, Géraldine Pailhas","Plot":"Dr Jack Mickler, a psychiatrist, is only 10 days away from his retirement. A week before he is due to leave, he encounters a young man who attempts suicide- would be a pretty straightforward case except the young man claims to be Don Juan, the fabled Spanish nobleman and world renowned seducer/lover of woman. Despite original hostility from his coworkers Jack manages to persuade his associates to put the boy in his care for 10 days after which the boy will undergo an evaluation to be either released from psychiatric care or sent to a mental institution. However, as the 10 days progresses Dr Mickler and the other staff become gradually drawn into to the young man's exotic world of love, passion and pleasure as he recounts his story to them. Whilst doing so the man's philosophies and zeal for life and love begins to revive Dr MIckler's somewhat passionless relationship with his wife, Marilyn as well as challenging his own views and ethics to the point where both he and the audience begin to question: could this young man truly be Don Juan?","Language":"English, Spanish","Country":"USA","Awards":"Nominated for 1 Oscar. Another 4 wins & 3 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTk0ODkzODY5OV5BMl5BanBnXkFtZTcwODAxMDYyMQ@@._V1_SX300.jpg","Metascore":"63","imdbRating":"6.8","imdbVotes":"38,106","imdbID":"tt0112883","Type":"movie","Response":"True"}
+230::Dolores Claiborne (1994)::Drama|Thriller
+
+{"Title":"Dolores Claiborne","Year":"1995","Rated":"R","Released":"24 Mar 1995","Runtime":"132 min","Genre":"Crime, Drama, Mystery","Director":"Taylor Hackford","Writer":"Stephen King (book), Tony Gilroy (screenplay)","Actors":"Kathy Bates, Jennifer Jason Leigh, Judy Parfitt, Christopher Plummer","Plot":"Dolores Claiborne works as a maid for a wealthy woman in remote Maine. When she is indicted for the elderly woman's murder, Dolores' daughter Selena returns from New York, where she has become a big-shot reporter. In the course of working out the details of what has happened, as well as some shady questions from the past and Selina's troubled childhood, many difficult truths are revealed about their family's domestic strife. This is cleverly portrayed with present reality shot in cool blue tones blending seamlessly into flashbacks shot in vivid color. As small town justice relentlessly grinds forward, surprises lie in store for the viewers....","Language":"English","Country":"USA","Awards":"1 win & 8 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMjE4NDIwNzgwN15BMl5BanBnXkFtZTcwNzk3MDAzMQ@@._V1_SX300.jpg","Metascore":"62","imdbRating":"7.4","imdbVotes":"25,964","imdbID":"tt0109642","Type":"movie","Response":"True"}
+242::Farinelli: il castrato (1994)::Drama|Musical
+
+{"Response":"False","Error":"Movie not found!"}
+248::Houseguest (1994)::Comedy
+
+{"Title":"Houseguest","Year":"1995","Rated":"PG","Released":"06 Jan 1995","Runtime":"113 min","Genre":"Comedy","Director":"Randall Miller","Writer":"Michael J. Di Gaetano, Lawrence Gay","Actors":"Sinbad, Phil Hartman, Kim Greist, Chauncey Leopardi","Plot":"Kevin Franklin is a con man whose mouth is bigger than him, but it doesn't help him much when he's in with the mob for $50,000. Trying to avoid a gambling addict boss, and his two stupid henchmen, Kevin poses as a childhood friend to Gary Young, a workaholic father whose own life is in turmoil in an affluent Pennsylvania suburb.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMjE5MDQ1NTY1Ml5BMl5BanBnXkFtZTYwODgxODQ5._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.9","imdbVotes":"4,112","imdbID":"tt0110066","Type":"movie","Response":"True"}
+250::Heavyweights (1994)::Children's|Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+255::Jerky Boys, The (1994)::Comedy
+
+{"Title":"The Jerky Boys","Year":"1995","Rated":"R","Released":"03 Feb 1995","Runtime":"82 min","Genre":"Comedy, Crime","Director":"James Melkonian","Writer":"James Melkonian, Rich Wilkes, John G. Brennan, Kamal Ahmed","Actors":"John G. Brennan, Kamal Ahmed, Alan Arkin, William Hickey","Plot":"When two unemployed telephone pranksters decide to use their vocal \"talents\" to impersonate a Chicago mob boss and curry favor with organized crime in New York, the trouble begins. It isn't long before Johnny and Kamal (the \"Jerky Boys\" of crank call fame) are wanted by the local mafia, the police, and their neighbor.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMjE4OTI4OTEyNF5BMl5BanBnXkFtZTcwNDk5NjUyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.5","imdbVotes":"2,031","imdbID":"tt0110189","Type":"movie","Response":"True"}
+265::Like Water for Chocolate (Como agua para chocolate) (1992)::Drama|Romance
+
+{"Response":"False","Error":"Movie not found!"}
+267::Major Payne (1994)::Comedy
+
+{"Title":"Major Payne","Year":"1995","Rated":"PG-13","Released":"24 Mar 1995","Runtime":"95 min","Genre":"Comedy","Director":"Nick Castle","Writer":"Joe Connelly (story), Bob Mosher (story), William Roberts (earlier screenplay), Richard Alan Simmons (earlier screenplay), Dean Lorey (screenplay), Damon Wayans (screenplay), Gary Rosen (screenplay)","Actors":"Damon Wayans, Michael Ironside, Scott Bigelow, Joseph Blaire","Plot":"Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch or ragtag losers with no hope. Using such teaching tools as live grenades and real bullets, Payne starts to instill the corp with some hope. But when Payne is recalled to fight in Bosnia, will he leave the corp who has just started the believe in him, or will he find out that killin' ain't much of a livin'?","Language":"English, Vietnamese","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTk5MTAwODQwMF5BMl5BanBnXkFtZTcwMzE5NjMyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.1","imdbVotes":"19,480","imdbID":"tt0110443","Type":"movie","Response":"True"}
+269::My Crazy Life (Mi vida loca) (1993)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+284::New York Cop (1996)::Action|Crime
+
+{"Response":"False","Error":"Movie not found!"}
+285::Beyond Bedlam (1993)::Drama|Horror
+
+{"Title":"Beyond Bedlam","Year":"1994","Rated":"R","Released":"22 Apr 1994","Runtime":"89 min","Genre":"Comedy, Horror","Director":"Vadim Jean","Writer":"John Brosnan (novel), Vadim Jean, Rob Walker","Actors":"Craig Fairbrass, Elizabeth Hurley, Keith Allen, Anita Dobson","Plot":"Dr.Stephanie Lyell works for Neurological Research, and is testing a seemingly safe personality-altering drug on Marc Gilmour a notorious Serial Killer. But when a pair of bizarre suicides occur at Dr. Lyell's apartment complex, Homicide Detective Terry Hamilton connects the mysterious deaths to the drug's diabolical side effects on Gilmour. Only after they too begin to experience horrible dreams and hallucinations do Terry and Stephanie realize they are trapped in Gilmour's nightmarish world, from which there is no hope of escape.","Language":"English","Country":"UK","Awards":"1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTczMDkzNTg0OF5BMl5BanBnXkFtZTcwMzk2NTAyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"3.4","imdbVotes":"407","imdbID":"tt0106402","Type":"movie","Response":"True"}
+291::Poison Ivy II (1995)::Thriller
+
+{"Title":"Poison Ivy II","Year":"1996","Rated":"R","Released":"16 Jan 1996","Runtime":"106 min","Genre":"Drama, Thriller","Director":"Anne Goursaud","Writer":"Chloe King","Actors":"Alyssa Milano, Johnathon Schaech, Xander Berkeley, Belinda Bauer","Plot":"Lily is a sheltered art student from Michigan going to school in California. She finds an apartment and her roommates aren't quite normal. One day she finds a box of items belonging to a girl she's never met before. But in the box are nude pictures of the girl and her diary. Lily begins reading the diary and realizes that she's going to change her life and become a wild woman! She begins dating a guy and at the same time her art instructor begins to lust after her. The struggle begins when her boyfriend thinks she's unfaithful to him and her art teacher becomes obsessed.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMzI1NzYyMzc5MV5BMl5BanBnXkFtZTcwMjQwOTYyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.3","imdbVotes":"4,209","imdbID":"tt0114151","Type":"movie","Response":"True"}
+301::Picture Bride (1995)::Drama|Romance
+
+{"Title":"Picture Bride","Year":"1994","Rated":"PG-13","Released":"05 May 1995","Runtime":"94 min","Genre":"Drama, Romance","Director":"Kayo Hatta","Writer":"Kayo Hatta (screenplay), Kayo Hatta (story), Mari Hatta (screenplay), Mari Hatta (story), Diane Mei Lin Mark (story)","Actors":"Yûki Kudô, Cary-Hiroyuki Tagawa, Tamlyn Tomita, Akira Takayama","Plot":"The story of 16-year-old Riyo who journeys to Hawaii in 1918 to marry a man she has never met, except through photographs and letters they have exchanged. Hoping to escape a troubled past and to start anew, Riyo is bitterly disappointed upon her arrival: her husband is twice her age and Hawaii is not the paradise she expected. As Riyo comes to terms with her new home, she discovers a land full of hardship, struggle--and unexpected joy.","Language":"English, Japanese","Country":"Japan, USA","Awards":"2 wins & 5 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTUxMjgzNDE4Ml5BMl5BanBnXkFtZTcwMzkzNzQyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.8","imdbVotes":"836","imdbID":"tt0114129","Type":"movie","Response":"True"}
+322::Swimming with Sharks (1995)::Comedy|Drama
+
+{"Title":"Swimming with Sharks","Year":"1994","Rated":"R","Released":"21 Apr 1995","Runtime":"101 min","Genre":"Comedy, Crime","Director":"George Huang","Writer":"George Huang","Actors":"Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro","Plot":"A young Hollywood executive becomes the assistant to a big time movie producer who is the worst boss imaginable: abusive, abrasive and cruel. But soon things turn around when the young executive kidnaps his boss and visits all the cruelties back on him.","Language":"English","Country":"USA","Awards":"6 wins & 2 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTYyNzQxMTY5NV5BMl5BanBnXkFtZTcwNjM2MDkyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"17,908","imdbID":"tt0114594","Type":"movie","Response":"True"}
+328::Tales From the Crypt Presents: Demon Knight (1995)::Horror
+
+{"Response":"False","Error":"Movie not found!"}
+346::Backbeat (1993)::Drama|Musical
+
+{"Title":"Backbeat","Year":"1994","Rated":"R","Released":"15 Apr 1994","Runtime":"100 min","Genre":"Biography, Drama, Music","Director":"Iain Softley","Writer":"Iain Softley, Michael Thomas, Stephen Ward","Actors":"Sheryl Lee, Stephen Dorff, Ian Hart, Gary Bakewell","Plot":"A pre-fame Beatles head for the seedy clubs of Hamburg in search of success. The band meet up with a group of trendy German beatniks, one of whom (Astrid Kircherr) bass guitarist Stuart Sutcliffe falls in love with. Whilst best friend John Lennon can only watch, Sutcliffe has to choose between rock 'n roll and a new life in Germany...","Language":"English, German, French, Russian","Country":"UK, Germany","Awards":"Nominated for 1 BAFTA Film Award. Another 5 wins & 2 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTQxMzAxNjkxNl5BMl5BanBnXkFtZTcwODEzOTUyMQ@@._V1._CR23,21,321,478_SX89_AL_.jpg_V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.7","imdbVotes":"4,505","imdbID":"tt0106339","Type":"movie","Response":"True"}
+366::Wes Craven's New Nightmare (1994)::Horror
+
+{"Response":"False","Error":"Movie not found!"}
+373::Red Rock West (1992)::Thriller
+
+{"Title":"Red Rock West","Year":"1993","Rated":"R","Released":"16 Jun 1993","Runtime":"98 min","Genre":"Crime, Drama, Thriller","Director":"John Dahl","Writer":"John Dahl, Rick Dahl","Actors":"Nicolas Cage, Dennis Hopper, Lara Flynn Boyle, J.T. Walsh","Plot":"When a promised job for Texan Michael fails to materialise in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.","Language":"English","Country":"USA","Awards":"3 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTk0Mjg4OTc3OF5BMl5BanBnXkFtZTYwNzgzOTg5._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.0","imdbVotes":"14,177","imdbID":"tt0105226","Type":"movie","Response":"True"}
+374::Richie Rich (1994)::Children's|Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+388::Boys Life (1995)::Drama
+
+{"Title":"Boys Life: Three Stories of Love, Lust, and Liberation","Year":"1994","Rated":"N/A","Released":"30 Sep 1994","Runtime":"91 min","Genre":"Drama","Director":"Robert Lee King, Raoul O'Connell, Brian Sloan","Writer":"N/A","Actors":"James Andrews, Mary Beth Aylesworth, Mike Barbour, Steve Bilich","Plot":"Each of the three short films in this collection presents a young gay man at the threshold of adulthood. In \"Pool Days,\" Justin is a 17-year old Bethesda lad, hired as the evening life guard at a fitness center. In the course of the summer, he realizes and embraces that he's gay. In \"A Friend of Dorothy,\" Winston arrives from upstate for his freshman year at NYU. He has to figure out, with some help from Anne, a hometown friend, how to build a social life as a young gay man in the city. In \"The Disco Years,\" Tom looks back on 1978, the year in high school that he came out of the closet after one joyful and several painful encounters.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTM0ODA1MzEwM15BMl5BanBnXkFtZTcwNjQ3ODYxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.2","imdbVotes":"407","imdbID":"tt0112570","Type":"movie","Response":"True"}
+402::Open Season (1996)::Comedy
+
+{"Title":"Open Season","Year":"1995","Rated":"R","Released":"03 May 1996","Runtime":"97 min","Genre":"Comedy","Director":"Robert Wuhl","Writer":"Robert Wuhl","Actors":"Lloyd Adams, Robert Wuhl, Eric Bryson, Marcy King","Plot":"An ex-employee of the TV ratings company goes to work at the Public Broadcasting Television studio (PBT) when suddenly the computer that determines ratings has a malfunction so that it inaccuratly reports a sudden trend from the normal violence, sex and gore on network television to the artsy PBT shows.","Language":"English","Country":"USA, Canada","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMjM4MTM1ODg5N15BMl5BanBnXkFtZTgwNjM4ODk1MDE@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.6","imdbVotes":"165","imdbID":"tt0114047","Type":"movie","Response":"True"}
+403::Two Crimes (1995)::Comedy|Crime|Drama
+
+{"Response":"False","Error":"Movie not found!"}
+405::Highlander III: The Sorcerer (1994)::Action|Sci-Fi
+
+{"Response":"False","Error":"Movie not found!"}
+407::In the Mouth of Madness (1995)::Horror|Thriller
+
+{"Title":"In the Mouth of Madness","Year":"1994","Rated":"R","Released":"03 Feb 1995","Runtime":"95 min","Genre":"Horror, Mystery","Director":"John Carpenter","Writer":"Michael De Luca","Actors":"Sam Neill, Julie Carmen, Jürgen Prochnow, David Warner","Plot":"With the disappearance of hack horror writer Sutter Cane, all Hell is breaking loose...literally! Author Cane, it seems, has a knack for description that really brings his evil creepy-crawlies to life. Insurance investigator John Trent is sent to investigate Cane's mysterious vanishing act and ends up in the sleepy little East Coast town of Hobb's End. The fact that this town exists as a figment of Cane's twisted imagination is only the beginning of Trent's problems....","Language":"English","Country":"USA","Awards":"1 win & 3 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTc0MzkxOTYxNl5BMl5BanBnXkFtZTcwODY2MzYxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.2","imdbVotes":"38,146","imdbID":"tt0113409","Type":"movie","Response":"True"}
+418::Being Human (1993)::Drama
+
+{"Title":"Being Human","Year":"1994","Rated":"PG-13","Released":"06 May 1994","Runtime":"122 min","Genre":"Comedy, Drama","Director":"Bill Forsyth","Writer":"Bill Forsyth","Actors":"Robin Williams, Kelly Hunter, Maudie Johnson, Max Johnson","Plot":"One man must learn the meaning of courage across four lifetimes centuries apart.","Language":"English, Scottish Gaelic","Country":"UK, Japan","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTY1NDkxMzU1Nl5BMl5BanBnXkFtZTcwOTQ0MDEyMQ@@._V1_SX300.jpg","Metascore":"33","imdbRating":"5.3","imdbVotes":"3,115","imdbID":"tt0106379","Type":"movie","Response":"True"}
+482::Killing Zoe (1994)::Thriller
+
+{"Title":"Killing Zoe","Year":"1993","Rated":"R","Released":"01 Sep 1994","Runtime":"96 min","Genre":"Crime, Drama, Thriller","Director":"Roger Avary","Writer":"Roger Avary","Actors":"Eric Stoltz, Martin Raymond, Eric Pascal Chaltiel, Julie Delpy","Plot":"Zed has only just arrived in the beautiful Paris and already he's up to no good. Having just slept with a call girl, he spends a night on the town with his dangerous friends. They all decide to rob a bank the following day. There's only one problem: Zed's call-girl, Zoe, just happens to work at the bank which is to be robbed!","Language":"English, French","Country":"France, USA","Awards":"2 wins & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTM4NTU3NzU2N15BMl5BanBnXkFtZTcwNzQwMTE0MQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.5","imdbVotes":"16,353","imdbID":"tt0110265","Type":"movie","Response":"True"}
+512::Robert A. Heinlein's The Puppet Masters (1994)::Horror|Sci-Fi
+
+{"Response":"False","Error":"Movie not found!"}
+565::Cronos (1992)::Horror
+
+{"Title":"Cronos","Year":"1993","Rated":"R","Released":"01 May 1994","Runtime":"94 min","Genre":"Horror","Director":"Guillermo del Toro","Writer":"Guillermo del Toro (screenplay)","Actors":"Federico Luppi, Ron Perlman, Claudio Brook, Margarita Isabel","Plot":"In 1535, an alchemist builds an extraordinary mechanism encapsulated into a small golden device. The invention, designed to convey eternal life to its owner, survives its maker until 1997, when it shows up with an antiques dealer. Fascinated with the strange device, Gris (Luppi) doesn't note that there's more than one person looking for it. The promise of eternal life has become an obsession for old and sick Mr. De la Guardia (Brook). He and his nephew (Perlman) will do anything to get the Chronos Invention.","Language":"Spanish, English","Country":"Mexico","Awards":"21 wins & 3 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTc4MTU0MzE1N15BMl5BanBnXkFtZTcwOTg1OTU0NA@@._V1_SX300.jpg","Metascore":"70","imdbRating":"6.8","imdbVotes":"17,130","imdbID":"tt0104029","Type":"movie","Response":"True"}
+566::Naked in New York (1994)::Comedy|Romance
+
+{"Title":"Naked in New York","Year":"1993","Rated":"R","Released":"13 Apr 1994","Runtime":"95 min","Genre":"Comedy, Romance","Director":"Daniel Algrant","Writer":"Daniel Algrant, John Warren","Actors":"Eric Stoltz, Mary-Louise Parker, Ralph Macchio, Jill Clayburgh","Plot":"Naked in New York begins in the car of grown up Jake, he is talking to us about his girlfriend, Joanne, (watch for the facial expressions) and to whom you can turn to for help while facing life ('your parents, nyaa, I don't think so'). From there it flashes back to his memories of his parents, college, house across from a squirrel infested peanut factory, best friend, writing career and Joanne.","Language":"English","Country":"USA","Awards":"1 win & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTI2MTI0OTc3N15BMl5BanBnXkFtZTcwNzY2NjYyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.7","imdbVotes":"1,293","imdbID":"tt0110623","Type":"movie","Response":"True"}
+571::Wedding Gift, The (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+573::Ciao, Professore! (Io speriamo che me la cavo ) (1993)::Drama
+
+{"Title":"Ciao L.A.","Year":"1994","Rated":"N/A","Released":"N/A","Runtime":"7 min","Genre":"Short, Action, Comedy","Director":"Spike Jonze","Writer":"N/A","Actors":"Zoe R. Cassavetes, Sofia Coppola, Mike D, Adam Horovitz","Plot":"Three upcoming actors are interviewed on the hit Talk Show, \"Ciao LA.\"","Language":"English","Country":"USA","Awards":"N/A","Poster":"N/A","Metascore":"N/A","imdbRating":"5.5","imdbVotes":"71","imdbID":"tt0414901","Type":"movie","Response":"True"}
+578::Hour of the Pig, The (1993)::Drama|Mystery
+
+{"Response":"False","Error":"Movie not found!"}
+582::Metisse (Caf� au Lait) (1993)::Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+583::Dear Diary (Caro Diario) (1994)::Comedy|Drama
+
+{"Title":"Dear Diary","Year":"1995","Rated":"X","Released":"N/A","Runtime":"N/A","Genre":"Adult","Director":"Frank Marino","Writer":"Alex Sanders","Actors":"Kaitlyn Ashley, Felecia, Jeanna Fine, Krista Maze","Plot":"N/A","Language":"English","Country":"USA","Awards":"2 wins.","Poster":"N/A","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"8","imdbID":"tt0124345","Type":"movie","Response":"True"}
+598::Window to Paris (1994)::Comedy
+
+{"Title":"Window to Paris","Year":"1993","Rated":"PG-13","Released":"17 Feb 1995","Runtime":"87 min","Genre":"Comedy, Drama, Fantasy","Director":"Yuri Mamin","Writer":"Vyacheslav Leykin (additional writing), Yuri Mamin, Guy Séligmann (adaptation), Arkadiy Tigay, Vladimir Vardunas","Actors":"Agnès Soral, Sergey Dreyden, Viktor Mikhaylov, Nina Usatova","Plot":"Nikolai (played by Sergei Dontsov) has been fired from his job as a music teacher and has to live in the gym until he finds a place to stay. Finally, he gets a communal room in the apartment of Gorokhov (Victor Mikhalkov). The room's previous inhabitant, an old lady, has died a year ago, and yet her cat, Maxi, is still in the locked room, healthy and fat. Soon, Nikolai and his neighbours discover the mystery: there is a window to Paris in the room. That's when the comedy begins - will the Russians be able to cope with the temptation to profit from the discovery?","Language":"Russian, French","Country":"Russia, France","Awards":"4 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTU5OTAxNjg2NV5BMl5BanBnXkFtZTcwNjQwNDMzMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.4","imdbVotes":"1,029","imdbID":"tt0110719","Type":"movie","Response":"True"}
+601::Wooden Man's Bride, The (Wu Kui) (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+615::Bread and Chocolate (Pane e cioccolata) (1973)::Drama
+
+{"Title":"Bread and Chocolate","Year":"1974","Rated":"N/A","Released":"18 Jan 1974","Runtime":"100 min","Genre":"Comedy, Drama","Director":"Franco Brusati","Writer":"Franco Brusati (story), Franco Brusati (dialogue), Jaja Fiastri (dialogue), Nino Manfredi (dialogue)","Actors":"Nino Manfredi, Johnny Dorelli, Anna Karina, Paolo Turco","Plot":"Italian immigrant tries to become a member of Swiss society but fails as a waiter and even as a chicken plucker. He then becomes involved with shady wealthy character and tries to hide his Italian identity. He refuses to give up no matter how awful his situation.","Language":"Italian, German, English, French","Country":"Italy","Awards":"11 wins & 2 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTQ5NjM5MDkzMl5BMl5BanBnXkFtZTcwMDcxNzIyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.5","imdbVotes":"934","imdbID":"tt0070506","Type":"movie","Response":"True"}
+618::Two Much (1996)::Comedy|Romance
+
+{"Title":"Two Much","Year":"1995","Rated":"PG-13","Released":"15 Mar 1996","Runtime":"118 min","Genre":"Comedy, Romance","Director":"Fernando Trueba","Writer":"Donald E. Westlake (novel), Fernando Trueba (screenplay), David Trueba (screenplay)","Actors":"Antonio Banderas, Melanie Griffith, Daryl Hannah, Danny Aiello","Plot":"A young gallerist is in love with two sisters at the same time. In order to solve the problem he decides to invent his own twin-brother.","Language":"English","Country":"Spain, USA","Awards":"4 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMjA0ODQxMTI0NV5BMl5BanBnXkFtZTcwMTE4NjgyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.3","imdbVotes":"4,128","imdbID":"tt0118001","Type":"movie","Response":"True"}
+625::Asfour Stah (1990)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+638::Jack and Sarah (1995)::Romance
+
+{"Response":"False","Error":"Movie not found!"}
+649::Cold Fever (� k�ldum klaka) (1994)::Comedy|Drama
+
+{"Title":"Cold Fever","Year":"1995","Rated":"UNRATED","Released":"05 Apr 1996","Runtime":"83 min","Genre":"Comedy, Drama, Mystery","Director":"Friðrik Þór Friðriksson","Writer":"Friðrik Þór Friðriksson, Jim Stark","Actors":"Masatoshi Nagase, Lili Taylor, Fisher Stevens, Gísli Halldórsson","Plot":"Hirata finds himself canceling his vacation plans to Hawaii when his grandfather reminds him of his duty to his parents. Seven years earlier, Hirata's parents had been killed in an accident in Iceland and Japanese tradition holds that their souls will not be at ease until the proper ceremonies have been performed. Thus, Hirata sets out on a journey, a quest to the river where his parents perished. Along the way, in this Icelandic-Japanese road movie, he encounters many difficulties, tough situations, and odd people in the land of fire and ice. Fridrik Thor Fridriksson's vision infuses Iceland's stark and beautiful landscape with a haunting spirituality.","Language":"English, Icelandic, Japanese, German","Country":"USA, Japan, Iceland, Denmark, Germany","Awards":"3 wins.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTMxNTk1NTEwMF5BMl5BanBnXkFtZTcwNzg4ODUyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"1,414","imdbID":"tt0109028","Type":"movie","Response":"True"}
+654::Und keiner weint mir nach (1996)::Drama|Romance
+
+{"Response":"False","Error":"Movie not found!"}
+655::Mutters Courage (1995)::Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+657::Yankee Zulu (1994)::Comedy|Drama
+
+{"Title":"Yankee Zulu","Year":"1993","Rated":"PG","Released":"16 Feb 1996","Runtime":"100 min","Genre":"Comedy, Drama","Director":"Gray Hofmeyr","Writer":"Leon Schuster (story), Leon Schuster (screenplay), Gray Hofmeyr (screenplay), Craig Gardner (screenplay)","Actors":"Leon Schuster, John Matshikiza, Wilson Dunster, Terri Treas","Plot":"As children, Rhino and Zulu were best friends, until an incident causes them to go their separate ways. They meet up again as adults when Zulu, who has spent years in the United States, has become a wanted criminal. They get involved in a madcap chase involving a great deal of money and the inept members of a racist group called T.U.R.D.","Language":"English, Afrikaans","Country":"South Africa","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMjA2MDUyNDc4MV5BMl5BanBnXkFtZTYwNjU3MDg4._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.5","imdbVotes":"1,034","imdbID":"tt0111787","Type":"movie","Response":"True"}
+666::All Things Fair (1996)::Drama
+
+{"Title":"All Things Fair","Year":"1995","Rated":"N/A","Released":"08 Mar 1996","Runtime":"130 min","Genre":"Drama, Romance, War","Director":"Bo Widerberg","Writer":"Bo Widerberg","Actors":"Johan Widerberg, Marika Lagercrantz, Tomas von Brömssen, Karin Huldt","Plot":"Malmö, Sweden during the Second World War. Stig is a 15 year old pupil on the verge of adulthood. Viola is 37 years old and his teacher. He is attracted by her beauty and maturity. She is drawn to him by his youth and innocence, a god-sent relief from her drunk and miserable husband. They start a passionate and forbidden relationship - but it has consequences they never could have expected.","Language":"Swedish, English, German","Country":"Sweden, Denmark","Awards":"Nominated for 1 Oscar. Another 5 wins & 4 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTI2MTYyMjIzOF5BMl5BanBnXkFtZTYwNDgzMzk4._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.0","imdbVotes":"3,784","imdbID":"tt0113720","Type":"movie","Response":"True"}
+667::Bloodsport 2 (1995)::Action
+
+{"Title":"Bloodsport 2","Year":"1996","Rated":"R","Released":"01 Mar 1996","Runtime":"90 min","Genre":"Action, Sport","Director":"Alan Mehrez","Writer":"Jeff Schechter","Actors":"Daniel Bernhardt, Pat Morita, Donald Gibb, James Hong","Plot":"After thief Alex Cardo gets caught while stealing an ancient katana in East Asia, he soon finds himself imprisoned and beaten up by the crowd there. Especially one of the guards, Demien, feels upset by Alex appearance and tortures him as often as he gets the opportunity. Alex finds one friend and mentor in the jailhouse, Master Sun, who teaches him a superior fighting style called Iron Hand. When a 'best of the best kumite' is to take place, Demien gets an invitation. Now Master Sun and Alex need to find a way to let Alex take part in the kumite too.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTQ2Mzc4NzQxN15BMl5BanBnXkFtZTcwMDcxNjYyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.7","imdbVotes":"2,193","imdbID":"tt0112536","Type":"movie","Response":"True"}
+669::Aparajito (1956)::Drama
+
+{"Title":"Aparajito","Year":"1957","Rated":"N/A","Released":"N/A","Runtime":"110 min","Genre":"Drama","Director":"Satyajit Ray","Writer":"Bibhutibhushan Bandyopadhyay (novel), Satyajit Ray (script by: in subtitles), Kanailal Basu (assistant screenplay writer)","Actors":"Kamala Adhikari, Lalchand Banerjee, Kali Bannerjee, Kanu Bannerjee","Plot":"After living awhile in Benares, 10 year old Apu and his mother move in with her uncle in a small Bengali village. Apu enters a local school, where he does well. By the time he graduates, he has a scholarship to study at a college in Calcutta. So off he goes. His mother is torn by his leaving, and by his growing independence. She loves her son very much and wants him to succeed, but she does not want to be left alone.","Language":"Bengali, English","Country":"India","Awards":"Nominated for 2 BAFTA Film Awards. Another 6 wins.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTgwNzcwNDk3MF5BMl5BanBnXkFtZTcwNzMwMzQyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"8.0","imdbVotes":"5,560","imdbID":"tt0048956","Type":"movie","Response":"True"}
+675::Hostile Intentions (1994)::Action|Drama|Thriller
+
+{"Title":"Hostile Intentions","Year":"1995","Rated":"R","Released":"N/A","Runtime":"90 min","Genre":"Action, Drama, Thriller","Director":"Catherine Cyran","Writer":"Catherine Cyran","Actors":"Tia Carrere, Rigg Kennedy, Lisa Dean Ryan, Tricia Leigh Fisher","Plot":"Three young American women have a wild drunken fling south of the border. They find some rough folks to party with at a Mexican mansion, a Mexican jail and the U.S.-Mexican border.","Language":"English, Spanish","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTIyMjQ2NzMzNF5BMl5BanBnXkFtZTcwNDczNDcxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.2","imdbVotes":"139","imdbID":"tt0110061","Type":"movie","Response":"True"}
+678::Some Folks Call It a Sling Blade (1993)::Drama|Thriller
+
+{"Title":"Some Folks Call It a Sling Blade","Year":"1994","Rated":"N/A","Released":"23 Nov 1999","Runtime":"25 min","Genre":"Short, Drama, Thriller","Director":"George Hickenlooper","Writer":"Billy Bob Thornton","Actors":"Billy Bob Thornton, Molly Ringwald, J.T. Walsh, Jefferson Mays","Plot":"Twenty-five years after commiting a double murder, Karl Childers is going to be released from an institution for the criminally insane. A local reporter comes to talk to him, and after some fussing about her gender, the institution's director lets her talk to Karl (after all, he'll have to talk to women after his release). Karl talks about his life leading up to the crime, and the reporter listens in horror.","Language":"English","Country":"USA","Awards":"1 win & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTMxNzU2MDY5N15BMl5BanBnXkFtZTcwODU1MTUxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.5","imdbVotes":"1,370","imdbID":"tt0108181","Type":"movie","Response":"True"}
+681::Clean Slate (Coup de Torchon) (1981)::Crime
+
+{"Response":"False","Error":"Movie not found!"}
+683::Eye of Vichy, The (Oeil de Vichy, L') (1993)::Documentary
+
+{"Response":"False","Error":"Movie not found!"}
+685::It's My Party (1995)::Drama
+
+{"Title":"It's My Party","Year":"1996","Rated":"R","Released":"22 Mar 1996","Runtime":"110 min","Genre":"Drama","Director":"Randal Kleiser","Writer":"Randal Kleiser","Actors":"Margaret Cho, Bruce Davison, Lee Grant, Devon Gummersall","Plot":"\"You won't leave me, will you?\" Nick asks Brandon shortly after revealing to him the results of his last blood test for HIV. \"I don't want to die alone.\" In spite of Brandon's protestations, the two soon find the love they had shared for many years in ruins. One year after their breakup, Nick is confronted with a ravaged immune system and a CT Scan and lab values which, along with his worsening forgetfulness, clenches the diagnosis of Progressive Multifocal Leukoencephalopathy (PML) -- a condition he has seen claim his friends and one which he vows will not take him. Due to the aggressive nature of the disease, he has only a few days of conscious life remaining. His plan, he announces to family and \"extended family,\" is to voluntarily end his life himself before the disease renders him unrecognizable to those he loves and he, in turn, is unable to recognize them. Uninvited to the farewell party, Brandon's presence is greeted with jeers from those who see him as having abandoned Nick is his time of greatest need.","Language":"English","Country":"USA","Awards":"1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTExNzA0MzAwMTdeQTJeQWpwZ15BbWU2MDE0OTU5OQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"2,215","imdbID":"tt0113443","Type":"movie","Response":"True"}
+693::Under the Domin Tree (Etz Hadomim Tafus) (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+698::Delta of Venus (1994)::Drama
+
+{"Title":"Delta of Venus","Year":"1995","Rated":"NC-17","Released":"13 Oct 1995","Runtime":"102 min","Genre":"Drama","Director":"Zalman King","Writer":"Anaïs Nin (novel), Elisa M. Rothstein (screenplay), Patricia Louisianna Knop (screenplay)","Actors":"Audie England, Costas Mandylor, Eric Da Silva, Raven Snow","Plot":"An American writer in Paris starts writing erotic fiction. From encouragement from her friends, her lover, and her publisher she gets involved in nude modeling and progresses onward through many other forms of voyeuristic and participatory sexual adventures. Contains full frontal nudity and simulated sex, lots of sexual dialogue and profanity.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTgzNjg0MTI2MF5BMl5BanBnXkFtZTcwODM0OTYyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.5","imdbVotes":"1,392","imdbID":"tt0109593","Type":"movie","Response":"True"}
+718::Visitors, The (Les Visiteurs) (1993)::Comedy|Sci-Fi
+
+{"Response":"False","Error":"Movie not found!"}
+721::Halfmoon (Paul Bowles - Halbmond) (1995)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+723::Two Friends (1986)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+750::Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)::Sci-Fi|War
+
+{"Title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Year":"1964","Rated":"PG","Released":"29 Jan 1964","Runtime":"95 min","Genre":"Comedy, War","Director":"Stanley Kubrick","Writer":"Stanley Kubrick (screenplay), Terry Southern (screenplay), Peter George (screenplay), Peter George (based on the book: \"Red Alert\" by)","Actors":"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn","Plot":"Paranoid Brigadier General Jack D. Ripper of Burpelson Air Force Base, he believing that fluoridation of the American water supply is a Soviet plot to poison the U.S. populace, is able to deploy through a back door mechanism a nuclear attack on the Soviet Union without the knowledge of his superiors, including the Chair of the Joint Chiefs of Staff, General Buck Turgidson, and President Merkin Muffley. Only Ripper knows the code to recall the B-52 bombers and he has shut down communication in and out of Burpelson as a measure to protect this attack. Ripper's executive officer, RAF Group Captain Lionel Mandrake (on exchange from Britain), who is being held at Burpelson by Ripper, believes he knows the recall codes if he can only get a message to the outside world. Meanwhile at the Pentagon War Room, key persons including Muffley, Turgidson and nuclear scientist and adviser, a former Nazi named Dr. Strangelove, are discussing measures to stop the attack or mitigate its blow-up into an all out nuclear war with the Soviets. Against Turgidson's wishes, Muffley brings Soviet Ambassador Alexi de Sadesky into the War Room, and get his boss, Soviet Premier Dimitri Kisov, on the hot line to inform him of what's going on. The Americans in the War Room are dismayed to learn that the Soviets have a yet as unannounced Doomsday Device to detonate if any of their key targets are hit. As Ripper, Mandrake and those in the War Room try and work the situation to their end goal, Major T.J. \"King\" Kong, one of the B-52 bomber pilots, is working on his own agenda of deploying his bomb where ever he can on enemy soil if he can't make it to his intended target.","Language":"English, Russian","Country":"USA, UK","Awards":"Nominated for 4 Oscars. Another 15 wins & 4 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTU2ODM2NTkxNF5BMl5BanBnXkFtZTcwOTMwMzU3Mg@@._V1_SX300.jpg","Metascore":"96","imdbRating":"8.5","imdbVotes":"298,002","imdbID":"tt0057012","Type":"movie","Response":"True"}
+756::Carmen Miranda: Bananas Is My Business (1994)::Documentary
+
+{"Title":"Carmen Miranda: Bananas Is My Business","Year":"1995","Rated":"N/A","Released":"13 Apr 1995","Runtime":"91 min","Genre":"Documentary, Biography, Music","Director":"Helena Solberg","Writer":"Helena Solberg","Actors":"Cynthia Adler, Eric Barreto, Mario Cunha, Alice Faye","Plot":"A biography of the Portuguese-Brazilian singer Carmen Miranda, whose most distinctive feature was her tutti frutti hat. She came to the US as the \"Brazilian Bombshell\" and was a Broadway and Hollywood star in the 1940s.","Language":"English, Portuguese","Country":"UK, Brazil","Awards":"2 wins & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTM4ODQyMzM5MV5BMl5BanBnXkFtZTcwNDYzMjYxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.8","imdbVotes":"197","imdbID":"tt0109381","Type":"movie","Response":"True"}
+771::Vie est belle, La (Life is Rosey) (1987)::Comedy|Drama
+
+{"Response":"False","Error":"Movie not found!"}
+774::Wend Kuuni (God's Gift) (1982)::Drama
+
+{"Title":"Wend Kuuni","Year":"1983","Rated":"N/A","Released":"27 Mar 1983","Runtime":"75 min","Genre":"Drama","Director":"Gaston Kaboré","Writer":"N/A","Actors":"Serge Yanogo, Rosine Yanogo, Joseph Nikiema, Colette Kaboré","Plot":"In pre-colonial times a peddler crossing the savanna discovers a child lying unconscious in the bush. When the boy comes to, he is mute and cannot explain who he is. The peddler leaves him with a family in the nearest village. After a search for his parents, the family adopts him, giving him the name Wend Kuuni (God's Gift) and a loving sister with whom he bonds. Wend Kuuni regains his speech only after witnessing a tragic event that prompts him to reveal his own painful history.","Language":"More","Country":"Burkina Faso","Awards":"2 wins & 1 nomination.","Poster":"N/A","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"122","imdbID":"tt0084898","Type":"movie","Response":"True"}
+787::Gate of Heavenly Peace, The (1995)::Documentary
+
+{"Response":"False","Error":"Movie not found!"}
+791::Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)::Documentary
+
+{"Title":"The Last Klezmer: Leopold Kozlowski, His Life and Music","Year":"1994","Rated":"N/A","Released":"12 Aug 1994","Runtime":"85 min","Genre":"Documentary, Music","Director":"Yale Strom","Writer":"N/A","Actors":"Leopold Kozlowski","Plot":"N/A","Language":"English, Polish, Yiddish, Russian","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTk2NjAwNTM1Ml5BMl5BanBnXkFtZTcwNDEwNDkyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"8.5","imdbVotes":"28","imdbID":"tt0113610","Type":"movie","Response":"True"}
+793::My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+811::Bewegte Mann, Der (1994)::Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+815::Power 98 (1995)::Action|Mystery|Thriller
+
+{"Title":"Power 98","Year":"1996","Rated":"R","Released":"17 May 1996","Runtime":"89 min","Genre":"Action, Mystery, Thriller","Director":"Jaime Hellman","Writer":"Jaime Hellman","Actors":"Eric Roberts, Lisa Thornhill, Jason Gedrick, Jack Betts","Plot":"Karlin Pickett is a Los Angeles disc jockey who shocks his audience with outrageous stunts and crude jokes. Jon Price is a young DJ who joins the show. When women start turning up dead and the alleged killer keeps calling the station, the ratings go sky high and the cops begin looking for clues on Power 98.","Language":"English","Country":"USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTA1NDAxMzQxMjBeQTJeQWpwZ15BbWU3MDM0NTkwMjE@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"4.5","imdbVotes":"218","imdbID":"tt0114170","Type":"movie","Response":"True"}
+823::Collectionneuse, La (1967)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+825::Echte Kerle (1996)::Comedy|Romance
+
+{"Response":"False","Error":"Movie not found!"}
+826::Diebinnen (1995)::Drama
+
+{"Title":"Diebinnen","Year":"1996","Rated":"N/A","Released":"20 Jun 1996","Runtime":"93 min","Genre":"N/A","Director":"Peter Weck","Writer":"John Salvati, Peter Weck","Actors":"Christiane Hörbiger, Jennifer Nitsch, Lena Stolze, Peter Ehrlich","Plot":"N/A","Language":"German","Country":"Germany","Awards":"1 win.","Poster":"http://ia.media-imdb.com/images/M/MV5BNTYxMTA3NTg2MF5BMl5BanBnXkFtZTYwODU3OTU5._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.6","imdbVotes":"14","imdbID":"tt0112865","Type":"movie","Response":"True"}
+841::Eyes Without a Face (1959)::Horror
+
+{"Title":"Eyes Without a Face","Year":"1960","Rated":"UNRATED","Released":"24 Oct 1962","Runtime":"88 min","Genre":"Drama, Horror, Thriller","Director":"Georges Franju","Writer":"Jean Redon (novel), Pierre Boileau (adaptation), Thomas Narcejac (adaptation), Jean Redon (adaptation), Claude Sautet (adaptation), Pierre Gascar (dialogue)","Actors":"Pierre Brasseur, Alida Valli, Juliette Mayniel, Edith Scob","Plot":"A brilliant surgeon, Dr. Génessier, helped by his assistant Louise, kidnaps nice young women. He removes their faces and tries to graft them onto the head on his beloved daughter Christiane, whose face has been entirely spoiled in a car crash. All the experiments fail, and the victims die, but Génessier keeps trying....","Language":"French","Country":"France, Italy","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BNTA2Njg4MDE5MV5BMl5BanBnXkFtZTgwNDQ2NjgyMjE@._V1_SX300.jpg","Metascore":"88","imdbRating":"7.8","imdbVotes":"14,107","imdbID":"tt0053459","Type":"movie","Response":"True"}
+842::Tales from the Crypt Presents: Bordello of Blood (1996)::Horror
+
+{"Response":"False","Error":"Movie not found!"}
+844::Story of Xinghua, The (1993)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+845::Day the Sun Turned Cold, The (Tianguo niezi) (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+853::Dingo (1992)::Drama
+
+{"Title":"Dingo","Year":"1991","Rated":"PG","Released":"31 Jan 1992","Runtime":"109 min","Genre":"Drama, Music","Director":"Rolf de Heer","Writer":"Marc Rosenberg","Actors":"Colin Friels, Miles Davis, Helen Buday, Joe Petruzzi","Plot":"Traces the pilgrimage of John Anderson, an average guy with a passion for jazz, from his home in outback Western Australia to the jazz clubs of Paris, to meet his idol, jazz trumpeter Billy Cross.","Language":"English","Country":"Australia, France","Awards":"3 wins & 5 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTkxNjM4NjcxM15BMl5BanBnXkFtZTcwNTMzMzMzMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"230","imdbID":"tt0104109","Type":"movie","Response":"True"}
+855::Every Other Weekend (1990)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+857::Crows and Sparrows (1949)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+865::Small Faces (1995)::Drama
+
+{"Title":"Small Faces","Year":"1996","Rated":"R","Released":"14 Aug 1996","Runtime":"108 min","Genre":"Drama","Director":"Gillies MacKinnon","Writer":"Billy MacKinnon, Gillies MacKinnon","Actors":"Iain Robertson, Joe McFadden, Steven Duffy, Laura Fraser","Plot":"Three teenage brothers, gang-member Bobby, troubled mama's boy Alan and self-assured prankster Lex, reside in a downtrodden section of Glasgow, Scotland, circa 1968. But while Bobby and Alan are beginning to experience the power of raging hormones, the story focuses on Lex, who begins a downward spiral after he accidentally shoots the leader of Bobby's gang. Lex's cockiness and immaturity unfortunately prevent him from understanding the effect his subsequent crimes will have on both himself, and on those around him.","Language":"English","Country":"UK","Awards":"2 wins & 1 nomination.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTM4NTMzODI3MV5BMl5BanBnXkFtZTcwMjIxNjIyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"1,201","imdbID":"tt0114474","Type":"movie","Response":"True"}
+868::Death in Brunswick (1991)::Comedy
+
+{"Title":"Death in Brunswick","Year":"1990","Rated":"R","Released":"25 Apr 1991","Runtime":"109 min","Genre":"Comedy, Crime, Thriller","Director":"John Ruane","Writer":"Boyd Oxlade, John Ruane","Actors":"Sam Neill, Zoe Carides, John Clarke, Yvonne Lawley","Plot":"Carl Fitzgerald is down-on-his-luck until he meets Sophie, a beautiful Greek girl. He gets a job as a cook, but accidentally kills fellow worker Mustafa. He turns to his unscrupulous best friend for help and together they attempt to dispose of the body.","Language":"English","Country":"Australia","Awards":"1 win & 5 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMjA5OTk1Nzg3MF5BMl5BanBnXkFtZTcwNTE5OTUxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.6","imdbVotes":"729","imdbID":"tt0101692","Type":"movie","Response":"True"}
+872::Aiqing wansui (1994)::Drama
+
+{"Response":"False","Error":"Movie not found!"}
+876::Police Story 4: Project S (Chao ji ji hua) (1993)::Action
+
+{"Response":"False","Error":"Movie not found!"}
+952::Around the World in 80 Days (1956)::Adventure|Comedy
+
+{"Response":"False","Error":"Movie not found!"}
+970::Beat the Devil (1954)::Comedy|Drama
+
+{"Title":"Beat the Devil","Year":"1953","Rated":"NOT RATED","Released":"17 Dec 1953","Runtime":"89 min","Genre":"Action, Adventure, Comedy","Director":"John Huston","Writer":"Claud Cockburn (novel), Truman Capote (screenplay), John Huston (screenplay)","Actors":"Humphrey Bogart, Jennifer Jones, Gina Lollobrigida, Robert Morley","Plot":"A quartet of international crooks -- Peterson, O'Hara, Ross and Ravello -- is stranded in Italy while their steamer is being repaired. With them are the Dannreuthers. The six are headed for Africa, presumably to sell vacuum cleaners but actually to buy land supposedly loaded with uranium. They are joined by others who apparently have similar designs.","Language":"English, Italian","Country":"UK, USA, Italy","Awards":"1 win.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTk3MDg2OTAzNF5BMl5BanBnXkFtZTgwODUzNzYzMjE@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"6.6","imdbVotes":"5,507","imdbID":"tt0046414","Type":"movie","Response":"True"}
+980::In the Line of Duty 2 (1987)::Action
+
+{"Response":"False","Error":"Movie not found!"}
+984::Pompatus of Love, The (1996)::Comedy|Drama
+
+{"Title":"The Pompatus of Love","Year":"1995","Rated":"R","Released":"26 Jul 1996","Runtime":"99 min","Genre":"Comedy, Drama, Romance","Director":"Richard Schenkman","Writer":"Jon Cryer, Adam Oliensis, Richard Schenkman","Actors":"Adrian Pasdar, Paige Turco, Arabella Field, Dana Wheeler-Nicholson","Plot":"Four guys sit around drinking beer and talking, trying to figure out the meaning of \"the pompatus of love\" (from the Steve Miller song \"Joker\") and analyzing their relationships with women.","Language":"English","Country":"France, USA","Awards":"N/A","Poster":"http://ia.media-imdb.com/images/M/MV5BMTg4MTAzOTA0NF5BMl5BanBnXkFtZTcwMzY3MDAyMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"5.3","imdbVotes":"508","imdbID":"tt0117357","Type":"movie","Response":"True"}
+985::Small Wonders (1996)::Documentary
+
+{"Title":"Small Wonders","Year":"1995","Rated":"G","Released":"N/A","Runtime":"77 min","Genre":"Documentary, Biography, Music","Director":"Allan Miller","Writer":"N/A","Actors":"Roberta Guaspari, Arnold Steinhardt, Isaac Stern, Itzhak Perlman","Plot":"A dedicated music teacher in East Harlem instructs a gaggle of underprivileged children in the art of the violin. In the climax, they play Carnegie Hall with some of the world's foremost fiddlers.","Language":"English, Spanish","Country":"USA","Awards":"Nominated for 1 Oscar. Another 2 wins.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTY4OTkxNDg3OF5BMl5BanBnXkFtZTcwNDQwODUxMQ@@._V1_SX300.jpg","Metascore":"N/A","imdbRating":"7.1","imdbVotes":"127","imdbID":"tt0117669","Type":"movie","Response":"True"}
