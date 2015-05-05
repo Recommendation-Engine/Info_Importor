@@ -1,50 +1,31 @@
-import urllib, urllib2
+import json
 
 class MovieInfoImporter(object):
+	"""docstring for MovieInfoImporter"""
+	def __init__(self, inputFile):
+		self.__inputFile = inputFile
 
-	def __init__(self, movieSource):
-		self.__movieSource = movieSource
+	def _getMovieInfo(self, lines):
+		'''
+		    TODO: In meta, genre and actors are in single string.
+		    It is beter to split into lists in the future.
+		'''
+		movieInfo = {}
+		originalItems = lines[0].split("::")
+		print originalItems[0]
+		movieInfo['mid'] = int(originalItems[0])
+		movieInfo['cat'] = originalItems[-1].strip().split('|')
+		movieInfo['meta'] = json.loads(lines[1].strip())
+		return movieInfo
 
-	def analyseMovie(self):
-		with open(self.__movieSource, 'r') as inputfile:
-			with open("result.txt",'w') as outputfile:
-				for line in inputfile:
-					items = line.split("::")
-					movieId = int(items[0])
-					movieQuery = self._generateMovieQuery(items[1])
-					categories = items[2].strip().split("|")
+	def importMovieInfo(self, collection):
+		with open(self.__inputFile, 'r') as inFile:
+			lines = inFile.readlines()
+			for i in range(len(lines)):
+				if i % 3 == 0:
+					movieInfo = self._getMovieInfo(lines[i:i+2])
 
-					response = urllib2.urlopen("http://www.omdbapi.com/?" + movieQuery + "&plot=full&r=json")
-					jsonString = response.read()
-
-					print movieId
-					outputfile.write(line + "\n" + jsonString + "\n")
-
-	
-	def _generateMovieQuery(self, movieInfo):
-		items = movieInfo.split(" ")
-		movieNameList = items[:-1]
-		year = int(items[-1][1:-1])
-		movieName = ''
-		for item in movieNameList:
-			if item[0] == "(" :
-				break
-			elif item[-1] == ",":
-				movieName += (" " + item[:-1])
-				break
-			else:
-				movieName += (" " + item)
-
-		movieDict = {}
-		movieDict['t'] = movieName
-		movieDict['y'] = year
-		movieQuery = urllib.urlencode(movieDict)
-
-		return movieQuery
-
-def main():
-	importer = MovieInfoImporter("../data/movies.txt")
-	importer.analyseMovie()
-
-if __name__ == '__main__':
-	main()
+					_id = collection.insert_one(movieInfo).inserted_id
+					if _id is None:
+						print "line: " + line +" failed to insert into databse" 
+		
